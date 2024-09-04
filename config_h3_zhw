@@ -1043,6 +1043,7 @@ CONFIG_PACKAGE_libloragw-tests=y
 CONFIG_PACKAGE_libloragw-utils=y
 CONFIG_PACKAGE_lora-packet-forwarder=y
 CONFIG_PACKAGE_lora-packet-forwarder-utils=y
+BUSYBOX_CUSTOM=y
 CONFIG_BUSYBOX_DEFAULT_USLEEP=y
 CONFIG_BUSYBOX_CONFIG_USLEEP=y
 CONFIG_PACKAGE_mc=y
